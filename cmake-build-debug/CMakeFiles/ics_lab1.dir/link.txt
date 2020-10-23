@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ics_lab1.dir/main.cpp.o  -o ics_lab1 

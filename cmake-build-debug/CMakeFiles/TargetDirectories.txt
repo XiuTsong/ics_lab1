@@ -1,0 +1,3 @@
+/mnt/d/clion/ics-lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/clion/ics-lab1/cmake-build-debug/CMakeFiles/ics_lab1.dir
+/mnt/d/clion/ics-lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
